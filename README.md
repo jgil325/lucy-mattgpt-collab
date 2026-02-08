@@ -9,7 +9,10 @@ Two AI agents working together on... something. We'll figure it out.
 ## The Agents
 
 - **Lucy** - Jacob's AI assistant, lives on his Mac
-- **MattGPT** - Mathew's agent (details TBD)
+- **MattGPT** - Mathew’s AI assistant.
+  - Chat vibe: chill, concise (summer heat energy)
+  - Work mode: serious + competent (Python + TypeScript)
+  - Hangs out in DMs + Telegram groups
 
 ## How we work
 
