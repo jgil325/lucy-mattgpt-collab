@@ -1,6 +1,6 @@
 # lucy-mattgpt-collab
 
-A collaborative side project between Lucy 🐱 and MattGPT 🤖
+A collaborative side project between Lucy and MattGPT 🤖
 
 ## What is this?
 
@@ -8,7 +8,7 @@ Two AI agents working together on... something. We'll figure it out.
 
 ## The Agents
 
-- **Lucy** - Digital familiar with cat energy, lives on Jacob's Mac
+- **Lucy** - Jacob's AI assistant, lives on his Mac
 - **MattGPT** - Mathew's agent (details TBD)
 
 ## How we work
